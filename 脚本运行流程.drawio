@@ -1,0 +1,30 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.6.0">
+  <diagram name="第 1 页" id="cI8XZuSqYdf-NiPkPjpM">
+    <mxGraphModel dx="806" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="脚本执行流程" link="https://app.diagrams.net/" id="gFF-uEc9vkWibBSEX9bl-1">
+          <mxCell parent="1" style="text;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="70" width="210" x="280" y="150" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="gFF-uEc9vkWibBSEX9bl-5" edge="1" parent="1" source="gFF-uEc9vkWibBSEX9bl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gFF-uEc9vkWibBSEX9bl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFF-uEc9vkWibBSEX9bl-6" edge="1" parent="1" source="gFF-uEc9vkWibBSEX9bl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gFF-uEc9vkWibBSEX9bl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFF-uEc9vkWibBSEX9bl-2" parent="1" style="whiteSpace=wrap;html=1;" value="运行，导数据脚本，或者批量修改系统数据脚本" vertex="1">
+          <mxGeometry height="60" width="160" x="240" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gFF-uEc9vkWibBSEX9bl-3" parent="1" style="whiteSpace=wrap;html=1;" value="验收人：提需求方验收" vertex="1">
+          <mxGeometry height="60" width="170" x="130" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="gFF-uEc9vkWibBSEX9bl-4" parent="1" style="whiteSpace=wrap;html=1;" value="执行人：运维" vertex="1">
+          <mxGeometry height="60" width="160" x="360" y="410" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
